@@ -71,11 +71,11 @@ footer {
   main {
     width: 100%;
     margin: 50px auto;
-    display: block;
+    display: inline-block;
   }
   .step-box {
     width: 90%;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding: 10px;
     position: relative;
     background-color: #eee;
